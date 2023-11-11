@@ -1,5 +1,5 @@
 <!--![logo](https://a-static.besthdwallpaper.com/space-stars-blue-galaxy-and-stars-wallpaper-1920x540-86311_70.jpg)-->
-<h1 align="center">Hi 👋, I'm Pallavi Babar </h1>
+<h1 align="center">Hi 👋, I'm Pallavi Ganpat Babar </h1>
 <h3 align="center">A Software Development Engineer with a Passion for Tech Content Writing...</h3>
 <img
   align="right"
